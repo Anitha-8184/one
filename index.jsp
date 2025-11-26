@@ -677,7 +677,7 @@
         <div class="main-menu">
             <div class="container">
                 <ul>
-                    <li><a href="#home">Home</a></li>
+                    <li><a href="#home">HOME</a></li>
                     <li><a href="#electronics">Electronics</a></li>
                     <li><a href="#fashion">Fashion</a></li>
                     <li><a href="#home-garden">Home & Garden</a></li>
