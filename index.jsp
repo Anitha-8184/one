@@ -837,7 +837,7 @@
             <p>Get the latest updates on new products and upcoming sales</p>
             
             <form class="newsletter-form" onsubmit="return subscribeNewsletter(event)">
-                <input type="email" placeholder="Enter your email address" required>
+                <input type="email" placeholder="Enter your email " required>
                 <button type="submit">Subscribe</button>
             </form>
         </div>
